@@ -1,0 +1,123 @@
+# Site settings
+ url      : http://classicalschools.org
+ baseurl  : 
+ locale:         "en"
+ title:          "classicalschools.org"
+ description:    "A database of classical schools"
+ comments: 
+  provider:       "facebook"
+  facebook: 
+    appid:    #optional
+    num_posts: 5
+    colorscheme : #"light" (default", "dark")
+reading_time    :     true
+words_per_minute: 200
+
+
+facebook:
+  username  : "keithedbuhler" 
+github      : 
+  username  : "keithbuhler"
+# Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+
+
+# author info
+author:
+  name      : "Keith Buhler"
+  avatar    : "avatar.png"
+  bio       : "Philosopher, classical educator, and author"
+  email     : "info@keithbuhler.com"
+  url       : "https://www.keithbuhler.com"
+  google_plus:  "+KeithBuhler"
+  facebook  : "keithedbuhler" 
+  twitter   : "Keith_Buhler"
+  youtube   : "https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q"
+
+social: 
+  type: 
+  name: 
+  links:
+    - "https://twitter.com/Keith_Buhler"
+    - "https://facebook.com/keithedbuhler"
+    - "https://www.linkedin.com/in/yourprofile"
+    - "https://plus.google.com/+Keith_Buhler"
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   UA-71712734-1
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+analytics:
+  provider: "google-universal"
+    tracking_id: "UA-71712734-1"
+
+
+timezone:    America/New_York
+future:      true
+highlighter: rouge
+
+# Gems
+
+gems: [jekyll-paginate]
+  - [jekyll-sitemap]
+  - [jekyll-feed]
+  - jekyll-gist
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+# For categories and tags
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# Links to include in footer navigation
+
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+    external: false
+    icon: home
+  - title: <i class="icon-book"></i> Documentation
+    url: /documentation
+  - title: Categories
+    url: /categories
+  - title: Tags
+    url: /tags
+
+teaser:   "400x400.gif"
+og_image: "keithbuhler-bw-small.png"
+
+# Outputting
+
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+defaults:
+  - scope:
+      path: "" # empty string for all files
+      values:
+        read_time: false
+        comments: false
+        share: false
+        related: false  
+        author_profile: false
+        layout: "single"
+        words_per_minute: 200
