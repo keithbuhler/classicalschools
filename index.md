@@ -5,11 +5,17 @@ layout:
 
 
 <center><h1> Welcome to Classical Schools.org</h1>
-<i>Promoting excellent classical schools and colleges in the U.S.</i></center>
+<i>Promoting excellent classical schools and colleges in the U.S.</i>
 
+<br>
+<br>
 
 <iframe src="https://docs.google.com/spreadsheets/d/1EfK8tTQCMRCGXG0WtnAt7QgME15Lr2N-9E9utusCG_Y/pubhtml?widget=true&amp;headers=false" height="900" width="700"></iframe>
 
+<br>
+
+
+</center>
 
 ## Ranking Key
 
@@ -25,7 +31,13 @@ Judgments are based on personal acquaintance with the school or well-researched 
 
 ## Contribute
 
-We welcome well-reasoned, well-researched reviews of these schools by those personally acquainted with them -- such as administrators, teachers, parents, current or former students. [Send us an email.](emailto:info@buhlerreport.com)
+We welcome contributions to the site, [just send us an email.](emailto:info@buhlerreport.com)
+
+Contributions might include: 
+
+1. Tell us about your school if it's not on the list. 
+2. Offer updated information (website link, grade levels served, etc.)
+2. Give us a well-reasoned, well-researched review of one of these schools. We especially welcome reviews from those personally acquainted with them -- such as administrators, teachers, parents, current or former students. 
 
 ----
 
