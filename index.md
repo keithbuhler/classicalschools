@@ -10,7 +10,7 @@ layout:
 <br>
 <br>
 
-<iframe src="https://docs.google.com/spreadsheets/d/1EfK8tTQCMRCGXG0WtnAt7QgME15Lr2N-9E9utusCG_Y/pubhtml?widget=true&amp;headers=false" height="900" width="700"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1EfK8tTQCMRCGXG0WtnAt7QgME15Lr2N-9E9utusCG_Y/pubhtml?widget=true&amp;headers=false" height="600" width="700"></iframe>
 
 <br>
 
