@@ -26,13 +26,18 @@ layout:
 - **No highlight** indicates that we do not yet have reliable knowledge of the quality of the school or that research is ongoing.  
 *Judgments are based on direct or indirect acquaintance with the school.*
 
+### Contribute
+
+We welcome contributions to the site, [just send us an email.](emailto:info@buhlerreport.com) Contributions might include:
+
+1. Tell us about your school if it's not on the list or offer updated information (website link, grade levels served, etc.)
+2. Give us a well-reasoned, well-researched review of one of these schools. We especially welcome reviews from those personally acquainted with them -- such as administrators, teachers, parents, current or former students. 
 
 ----
 
 ## We Recommend... 
 
-
-### These Organizations
+### Organizations
 
 - [Association of Classical Christian Schools](http://accsedu.org)-- The largest association of classical Christian schools aiming to promote, establish, and equip member schools
 - [National Association of University Model Schools](http://naums.net/) -- An association of conservative, Christian, 2-day or 3-day schools.
@@ -41,7 +46,7 @@ layout:
 - [St. Elizabeth the New Martyr Scholarship](https://docs.google.com/forms/d/e/1FAIpQLSfn4kEJmi_NTMiyb02KP9yKZ-u2hyFgUZ1tfAyFYsicl7CXGA/viewform&sa=D&ust=1485462122349000&usg=AFQjCNGTyVk_1rwjEc3ChUVBxUVkUnZU2g) A new scholarship for students attending Orthodox Christian schools
 - [Collegetrips.org](http://Collegetrips.org) Guided tours of CA colleges and universities.
 
-## These Writings
+### Writings
 
 - [Christian Classics Ethereal Library](http://www.ccel.org/) -- An online library of thousands of classic patristic, philosophical, and theological books.
 - [G. K. Chesterton's Works on the Web](http://www.cse.dmu.ac.uk/~mward/gkc/books/) -- An online library of GK Chesterton books.
@@ -51,14 +56,6 @@ layout:
 - [The Yale Report of 1828](http://www.keithbuhler.com/yalereport) -- A classic statement of the value of liberal arts in the U.S.
 - [Thomas Aquinas College's Proposal for Liberal Catholic Education](http://www.keithbuhler.com/buhlerreport/classical%20education/2017/01/26/Thomas-Aquinas-College's-Proposal-For-Liberal-Education.html)  -- A more recent statement of the value of liberal arts in the U.S.
 
-
-
-## Contribute
-
-We welcome contributions to the site, [just send us an email.](emailto:info@buhlerreport.com) Contributions might include:
-
-1. Tell us about your school if it's not on the list or offer updated information (website link, grade levels served, etc.)
-2. Give us a well-reasoned, well-researched review of one of these schools. We especially welcome reviews from those personally acquainted with them -- such as administrators, teachers, parents, current or former students. 
 
 ----
 
