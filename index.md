@@ -59,4 +59,6 @@ We welcome contributions to the site, [just send us an email.](emailto:info@buhl
 
 ----
 
-Copyright 2016. A project of [Dr. Keith Buhler.](http://www.keithbuhler.com/buhlerreport/classical-education) This website is in Beta. 
+<center data-markdown>
+Copyright 2017. A project of [Dr. Keith Buhler.](http://www.keithbuhler.com/buhlerreport/classical-education) This website is in Beta. 
+</center>
