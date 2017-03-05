@@ -43,7 +43,7 @@ We welcome contributions to the site, [just send us an email.](emailto:info@buhl
 - [National Association of University Model Schools](http://naums.net/) -- An association of conservative, Christian, 2-day or 3-day schools.
 - [Circe Institute](https://www.circeinstitute.org/) -- Writing curricula, consulting, and more resources for classical schools.
 - [Memoria Press](https://www.memoriapress.com/) -- Comprehensive curricula for classical schools.
-- [St. Elizabeth the New Martyr Scholarship](https://docs.google.com/forms/d/e/1FAIpQLSfn4kEJmi_NTMiyb02KP9yKZ-u2hyFgUZ1tfAyFYsicl7CXGA/viewform&sa=D&ust=1485462122349000&usg=AFQjCNGTyVk_1rwjEc3ChUVBxUVkUnZU2g) A new scholarship for students attending Orthodox Christian schools
+- [St. Elizabeth the New Martyr Scholarship](https://docs.google.com/forms/d/e/1FAIpQLSfn4kEJmi_NTMiyb02KP9yKZ-u2hyFgUZ1tfAyFYsicl7CXGA/viewform) A new scholarship for students attending Orthodox Christian schools
 - [Collegetrips.org](http://Collegetrips.org) Guided tours of CA colleges and universities.
 
 ### Writings
