@@ -1,6 +1,7 @@
 ---
 title: Welcome
 layout: 
+permalink: /index.html/
 ---
 
 
